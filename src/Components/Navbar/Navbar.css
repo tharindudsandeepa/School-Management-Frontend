@@ -1,0 +1,16 @@
+.navImage{
+    width: 40px;
+    height: 40px;
+    margin: 0px 10px;
+}
+.nav-link{
+    color: antiquewhite !important;
+    font-weight: bolder;
+}
+.navbar-brand{
+    color: antiquewhite !important;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: rgb(185, 134, 219) !important;
+}
